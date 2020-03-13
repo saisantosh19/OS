@@ -1,4 +1,4 @@
-#include<stdio.h>haiiii
+#include<stdio.h>
 int main()
 {
 int at[20],bt[20],p[20],ct[20],wt[20],tat[20],i,j,h,t,n,total=0,pos,temp;
